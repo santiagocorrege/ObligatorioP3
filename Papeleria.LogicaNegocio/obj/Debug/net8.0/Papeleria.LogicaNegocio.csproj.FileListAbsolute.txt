@@ -1,0 +1,17 @@
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Papeleria.LogicaNegocio\bin\Debug\net8.0\Papeleria.LogicaNegocio.deps.json
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Papeleria.LogicaNegocio\bin\Debug\net8.0\Papeleria.LogicaNegocio.dll
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Papeleria.LogicaNegocio\bin\Debug\net8.0\Papeleria.LogicaNegocio.pdb
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Papeleria.LogicaNegocio\obj\Debug\net8.0\Papeleria.LogicaNegocio.csproj.AssemblyReference.cache
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Papeleria.LogicaNegocio\obj\Debug\net8.0\Papeleria.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Papeleria.LogicaNegocio\obj\Debug\net8.0\Papeleria.LogicaNegocio.AssemblyInfoInputs.cache
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Papeleria.LogicaNegocio\obj\Debug\net8.0\Papeleria.LogicaNegocio.AssemblyInfo.cs
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Papeleria.LogicaNegocio\obj\Debug\net8.0\Papeleria.LogicaNegocio.csproj.CoreCompileInputs.cache
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Papeleria.LogicaNegocio\obj\Debug\net8.0\Papeleri.85A38B19.Up2Date
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Papeleria.LogicaNegocio\obj\Debug\net8.0\Papeleria.LogicaNegocio.dll
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Papeleria.LogicaNegocio\obj\Debug\net8.0\refint\Papeleria.LogicaNegocio.dll
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Papeleria.LogicaNegocio\obj\Debug\net8.0\Papeleria.LogicaNegocio.pdb
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Papeleria.LogicaNegocio\obj\Debug\net8.0\ref\Papeleria.LogicaNegocio.dll
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Papeleria.LogicaNegocio\bin\Debug\net8.0\Papeleria.Comun.dll
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Papeleria.LogicaNegocio\bin\Debug\net8.0\SistemaAutenticacion.dll
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Papeleria.LogicaNegocio\bin\Debug\net8.0\Papeleria.Comun.pdb
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Papeleria.LogicaNegocio\bin\Debug\net8.0\SistemaAutenticacion.pdb

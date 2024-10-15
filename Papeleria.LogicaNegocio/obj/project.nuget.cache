@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5c8g1Lde9EOV4PF2j+qFb6pWDt8EAV8A4KtTwdDNCXvbgBA+kQVvMIlgSvZHMrFcaEhvezZCQLH6WMXh8LNFrA==",
+  "success": true,
+  "projectFilePath": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3\\Obligatorio\\Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ryzen\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.4\\microsoft.entityframeworkcore.abstractions.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,76 @@
+﻿@model IEnumerable<Papeleria.LogicaAplicacion.DTO.DTOS.Pedido.DtoPedidoNoEntregado>
+
+@{
+    ViewData["Title"] = "GetPedidosNoEntregadosFecha";
+}
+
+<h1>Anular pedido no entregado</h1>
+<partial name="_Mensajes" />
+ @if(Model != null && Model.Count() != 0)
+    {
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ClienteNombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaPedido)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaEntrega)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CostoPedido)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+           
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ClienteNombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaPedido)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaEntrega)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CostoPedido)
+            </td>
+            <td>
+                @Html.ActionLink("Anular", "AnularPedido", new { id = item.Id}) |
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+}
+        <table>
+            <tfoot>
+            <tr>
+                <th>Filtrar pedido no entregado por fecha:</th>
+                <td colspan="2">
+                    <form asp-area="" asp-controller="Pedido" asp-action="GetPedidosNoEntregadosFecha" method="post">
+                        <input type="date" name="fecha" required/>
+                        <button type="submit" class="btn btn-primary">Filtrar</button>
+                    </form>
+                </td
+            <tr>
+            <tr>            
+                <td colspan="2">
+                    <a class="btn btn-info" asp-area="" asp-controller="Pedido" asp-action="GetPedidosNoEntregadosFecha" method="get">Limpiar Lista</a>
+                </td>
+            </tr>
+            </tfoot>
+        </table>

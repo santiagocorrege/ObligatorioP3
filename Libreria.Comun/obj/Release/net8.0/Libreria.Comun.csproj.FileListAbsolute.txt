@@ -1,0 +1,11 @@
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Libreria.Comun\bin\Release\net8.0\Libreria.Comun.deps.json
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Libreria.Comun\bin\Release\net8.0\Libreria.Comun.dll
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Libreria.Comun\bin\Release\net8.0\Libreria.Comun.pdb
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Libreria.Comun\obj\Release\net8.0\Libreria.Comun.GeneratedMSBuildEditorConfig.editorconfig
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Libreria.Comun\obj\Release\net8.0\Libreria.Comun.AssemblyInfoInputs.cache
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Libreria.Comun\obj\Release\net8.0\Libreria.Comun.AssemblyInfo.cs
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Libreria.Comun\obj\Release\net8.0\Libreria.Comun.csproj.CoreCompileInputs.cache
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Libreria.Comun\obj\Release\net8.0\Libreria.Comun.dll
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Libreria.Comun\obj\Release\net8.0\refint\Libreria.Comun.dll
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Libreria.Comun\obj\Release\net8.0\Libreria.Comun.pdb
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Libreria.Comun\obj\Release\net8.0\ref\Libreria.Comun.dll

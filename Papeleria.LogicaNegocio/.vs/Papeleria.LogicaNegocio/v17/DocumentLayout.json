@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3\\Obligatorio\\Papeleria.LogicaNegocio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A36634A8-F3F2-42B7-80F6-A2BBDC614769}|..\\MVC\\MVC.csproj|d:\\dropbox\\dropbox\\ort tercer semestre\\0 - obligatorios\\programacion 3\\obligatorio\\mvc\\views\\pedido\\getpedidosnoentregadosfecha.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36634A8-F3F2-42B7-80F6-A2BBDC614769}|..\\MVC\\MVC.csproj|d:\\dropbox\\dropbox\\ort tercer semestre\\0 - obligatorios\\programacion 3\\obligatorio\\mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36634A8-F3F2-42B7-80F6-A2BBDC614769}|..\\MVC\\MVC.csproj|d:\\dropbox\\dropbox\\ort tercer semestre\\0 - obligatorios\\programacion 3\\obligatorio\\mvc\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36634A8-F3F2-42B7-80F6-A2BBDC614769}|..\\MVC\\MVC.csproj|d:\\dropbox\\dropbox\\ort tercer semestre\\0 - obligatorios\\programacion 3\\obligatorio\\mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8915FC12-7E9C-429F-8F01-89299AD9BC10}|..\\Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|d:\\dropbox\\dropbox\\ort tercer semestre\\0 - obligatorios\\programacion 3\\obligatorio\\papeleria.logicaaplicacion\\implementacioncasosuso\\usuario\\getusuariologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8915FC12-7E9C-429F-8F01-89299AD9BC10}|..\\Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|d:\\dropbox\\dropbox\\ort tercer semestre\\0 - obligatorios\\programacion 3\\obligatorio\\papeleria.logicaaplicacion\\interfacescasosuso\\usuario\\igetusuariologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8915FC12-7E9C-429F-8F01-89299AD9BC10}|..\\Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|d:\\dropbox\\dropbox\\ort tercer semestre\\0 - obligatorios\\programacion 3\\obligatorio\\papeleria.logicaaplicacion\\dto\\dtos\\usuario\\dtousuariologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetPedidosNoEntregadosFecha.cshtml",
+              "DocumentMoniker": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3\\Obligatorio\\MVC\\Views\\Pedido\\GetPedidosNoEntregadosFecha.cshtml",
+              "RelativeDocumentMoniker": "..\\MVC\\Views\\Pedido\\GetPedidosNoEntregadosFecha.cshtml",
+              "ToolTip": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3\\Obligatorio\\MVC\\Views\\Pedido\\GetPedidosNoEntregadosFecha.cshtml",
+              "RelativeToolTip": "..\\MVC\\Views\\Pedido\\GetPedidosNoEntregadosFecha.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T14:29:25.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3\\Obligatorio\\MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3\\Obligatorio\\MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T05:53:11.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3\\Obligatorio\\MVC\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "..\\MVC\\Views\\Home\\Login.cshtml",
+              "ToolTip": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3\\Obligatorio\\MVC\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "..\\MVC\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T05:53:04.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3\\Obligatorio\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3\\Obligatorio\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T05:44:01.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetUsuarioLogin.cs",
+              "DocumentMoniker": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3\\Obligatorio\\Papeleria.LogicaAplicacion\\ImplementacionCasosUso\\Usuario\\GetUsuarioLogin.cs",
+              "RelativeDocumentMoniker": "..\\Papeleria.LogicaAplicacion\\ImplementacionCasosUso\\Usuario\\GetUsuarioLogin.cs",
+              "ToolTip": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3\\Obligatorio\\Papeleria.LogicaAplicacion\\ImplementacionCasosUso\\Usuario\\GetUsuarioLogin.cs",
+              "RelativeToolTip": "..\\Papeleria.LogicaAplicacion\\ImplementacionCasosUso\\Usuario\\GetUsuarioLogin.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T02:25:24.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DtoUsuarioLogin.cs",
+              "DocumentMoniker": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3\\Obligatorio\\Papeleria.LogicaAplicacion\\DTO\\DTOS\\Usuario\\DtoUsuarioLogin.cs",
+              "RelativeDocumentMoniker": "..\\Papeleria.LogicaAplicacion\\DTO\\DTOS\\Usuario\\DtoUsuarioLogin.cs",
+              "ToolTip": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3\\Obligatorio\\Papeleria.LogicaAplicacion\\DTO\\DTOS\\Usuario\\DtoUsuarioLogin.cs",
+              "RelativeToolTip": "..\\Papeleria.LogicaAplicacion\\DTO\\DTOS\\Usuario\\DtoUsuarioLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T02:24:40.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGetUsuarioLogin.cs",
+              "DocumentMoniker": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3\\Obligatorio\\Papeleria.LogicaAplicacion\\InterfacesCasosUso\\Usuario\\IGetUsuarioLogin.cs",
+              "RelativeDocumentMoniker": "..\\Papeleria.LogicaAplicacion\\InterfacesCasosUso\\Usuario\\IGetUsuarioLogin.cs",
+              "ToolTip": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3\\Obligatorio\\Papeleria.LogicaAplicacion\\InterfacesCasosUso\\Usuario\\IGetUsuarioLogin.cs",
+              "RelativeToolTip": "..\\Papeleria.LogicaAplicacion\\InterfacesCasosUso\\Usuario\\IGetUsuarioLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T02:23:52.275Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

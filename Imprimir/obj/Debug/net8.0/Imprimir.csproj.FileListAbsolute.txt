@@ -1,0 +1,14 @@
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Imprimir\bin\Debug\net8.0\Imprimir.exe
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Imprimir\bin\Debug\net8.0\Imprimir.deps.json
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Imprimir\bin\Debug\net8.0\Imprimir.runtimeconfig.json
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Imprimir\bin\Debug\net8.0\Imprimir.dll
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Imprimir\bin\Debug\net8.0\Imprimir.pdb
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Imprimir\obj\Debug\net8.0\Imprimir.GeneratedMSBuildEditorConfig.editorconfig
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Imprimir\obj\Debug\net8.0\Imprimir.AssemblyInfoInputs.cache
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Imprimir\obj\Debug\net8.0\Imprimir.AssemblyInfo.cs
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Imprimir\obj\Debug\net8.0\Imprimir.csproj.CoreCompileInputs.cache
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Imprimir\obj\Debug\net8.0\Imprimir.dll
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Imprimir\obj\Debug\net8.0\refint\Imprimir.dll
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Imprimir\obj\Debug\net8.0\Imprimir.pdb
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Imprimir\obj\Debug\net8.0\Imprimir.genruntimeconfig.cache
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\Imprimir\obj\Debug\net8.0\ref\Imprimir.dll

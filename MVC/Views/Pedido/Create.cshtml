@@ -1,0 +1,92 @@
+﻿@model Papeleria.LogicaAplicacion.DTO.DTOS.Pedido.DtoPedidoAdd
+
+@{
+    ViewData["Title"] = "Crear Pedido";
+}
+
+<h1>Crear Pedido</h1>
+<partial name="_Mensajes" />
+<h4>Ingrese los datos del pedido para el cliente @Model.ClienteNombre</h4>
+<hr />
+<form asp-action="Create" method="POST">
+<div class="card-group">
+<div class="card">
+    <div class="card-header">Crear Pedido</div>
+        <div class="card-body">
+            <input hidden type="text" id="ClienteId" name="ClienteId" value="@Model.ClienteId" />
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="FechaEntrega" class="control-label"></label>
+                 <input asp-for="FechaEntrega" class="form-control" min="@DateTime.Now.ToString("yyyy-MM-dd")" value="@DateTime.Now.ToString("yyyy-MM-dd")" />
+                <span asp-validation-for="FechaEntrega" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tipo" class="control-label"></label>
+                <select asp-for="Tipo" class="form-control">
+                        <option value="Comun" selected>Pedido Comun</option>
+                        <option value="Express">Pedido Express</option>
+                </select>
+                <span asp-validation-for="Tipo" class="text-danger"></span>
+                </select>
+
+            </div>
+        
+    </div>
+</div>
+<div class="card">
+    <div class="card-header">Agregar Articulo</div>
+        <div class="card-body">
+            <select name="idArticuloVista" id="idArticuloVista" asp-items="@ViewBag.Articulos" class="form-select"></select>
+            <div class="form-control">
+                <label for="cantidad">Cantidad</label>
+            @{
+                int cant = 1;
+                if(ViewBag.Cantidad != null)
+                {
+                    cant = (int)ViewBag.Cantidad;
+                }
+            }
+            <input type="number" name="cantidad" id="cantidad" value="@cant" class="form-control" min="1"/>
+            </div>
+            <div>
+                <a href="javascript.void(0)" id="agregarLink" class="btn btn-secondary m-2">Agregar</a> 
+            </div>
+        </div>
+</div>
+<div class="form-control">
+    <div class="d-grip gap-2 flex-md-column justify-content-md-end">
+        <button type="submit" class="btn btn-primary">Confirmar Pedido</button>
+        <a asp-action="Cancelar" class="btn btn-outline-primary">Cancelar Pedido</a>
+    </div>
+</div>
+<div>
+        <a asp-action="PedidoSelectCliente" class="btn btn-outline-primary">Volver a seleccionar Cliente</a>
+</div>
+</div>
+</form>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            document.getElementById('agregarLink').addEventListener('click', function (event) {
+                event.preventDefault()
+                var articuloId = document.getElementById('idArticuloVista').value;
+                var cantidad = document.getElementById('cantidad').value;
+                var clienteId = document.getElementById('ClienteId').value;
+                var tipo = document.getElementById("Tipo").value;
+
+                var url = '@Url.Action("AgregarLinea", "Pedido")'
+
+                var fullUrl = url
+                    + '?ArticuloId=' + encodeURIComponent(articuloId)
+                    + '&Cantidad=' + encodeURIComponent(cantidad)
+                    + '&ClienteId=' + encodeURIComponent(clienteId)
+                    + '&Tipo=' + encodeURIComponent(tipo)
+
+                console.log(fullUrl);
+                window.location.href = fullUrl;
+            });
+        });
+    </script>
+}

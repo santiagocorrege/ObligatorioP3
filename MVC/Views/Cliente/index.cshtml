@@ -1,0 +1,99 @@
+﻿@model IEnumerable<Papeleria.LogicaAplicacion.DTO.DTOS.Cliente.DtoClienteCompleto>
+
+@{
+    ViewData["Title"] = "Clientes";
+}
+
+<h1>Clientes</h1>
+<partial name="_Mensajes" />
+@* <p>
+    <a asp-action="Create">Crear Cliente</a>
+</p> *@
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RazonSocial)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RUT)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Calle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Numero)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ciudad)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Distancia)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+    @if(Model != null && Model.Count() != 0)
+    {
+        @foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RazonSocial)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RUT)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Calle)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Numero)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Ciudad)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Distancia)
+                </td>
+@*                 <td>
+                    @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                </td> *@
+            </tr>
+        }
+    }
+    </tbody>
+    <tfoot>
+     <tr>
+            <th>Filtrar Cliente por nombre:</th>
+            <td colspan="2">
+                <form asp-area="" asp-controller="Cliente" asp-action="GetClientesByNombre" method="post">
+                    <input type="text" name="nombrecliente" required/>
+                    <button type="submit" class="btn btn-primary">Filtrar</button>
+                </form>
+            </td
+        <tr>
+        <tr>
+            <th>Filtrar Cliente (Monto Pedido):</th>
+            <td colspan="2">
+                <form asp-area="" asp-controller="Cliente" asp-action="GetClientesMonto" method="post">
+                    <input type="number" name="montoPedido" required/>
+                    <button type="submit" class="btn btn-primary">Filtrar</button>
+                </form>
+            </td>            
+        </tr>
+        <tr>            
+            <td colspan="2">
+                <a class="btn btn-info" asp-area="" asp-controller="Cliente" asp-action="Index">Limpiar Lista</a>
+            </td>
+        </tr>
+    </tfoot>
+</table>

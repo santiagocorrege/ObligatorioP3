@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Test/1.0.0": {
+        "dependencies": {
+          "Libreria.Comun": "1.0.0",
+          "Papeleria.LogicaNegocio": "1.0.0"
+        },
+        "runtime": {
+          "Test.dll": {}
+        }
+      },
+      "Libreria.Comun/1.0.0": {
+        "runtime": {
+          "Libreria.Comun.dll": {}
+        }
+      },
+      "Papeleria.LogicaNegocio/1.0.0": {
+        "dependencies": {
+          "Libreria.Comun": "1.0.0"
+        },
+        "runtime": {
+          "Papeleria.LogicaNegocio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Libreria.Comun/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Papeleria.LogicaNegocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
